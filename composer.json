@@ -1,6 +1,5 @@
 {
   "name": "bfab/magento2-replace-bundled",
-  "version": "2.3.3",
   "replace": {
     "amzn/amazon-pay-and-login-magento-2-module": "*",
     "amzn/amazon-pay-and-login-with-amazon-core-module": "*",
